@@ -1,0 +1,22 @@
+.id-card {
+  border: 1px solid black;
+  display: flex;
+  justify-content: flex-start;
+  margin: 20px;
+}
+
+.picture {
+  width: 130px;
+  height: 130px;
+}
+
+.info,
+.picture {
+  margin: 5px;
+}
+
+.info p {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
